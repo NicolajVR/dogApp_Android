@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity2</string>
+
+    <string-array name="dogBreeds">
+        <item>Bloodhound</item>
+        <item>German Shepherd</item>
+        <item>Shiba Inu</item>
+        <item>Dachshund</item>
+        <item>Beagle</item>
+    </string-array>
+</resources>
